@@ -9,7 +9,7 @@ import { useNavigate } from "react-router-dom";
 function Home() {
   let navigate = useNavigate(); 
   const routeChange = () =>{ 
-    let path = `/List`; 
+    let path = `/list`; 
     navigate(path);
   }
 
