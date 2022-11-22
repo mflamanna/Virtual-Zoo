@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Image = styled.img`
+export const HomeImage = styled.img`
 max-width: 100%;
 padding: 0;
 margin: auto;
